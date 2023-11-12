@@ -2,8 +2,6 @@
 
 At Monster IT, we're not just Tech Guardians; we're your allies in the digital realm, infusing expertise with a touch of monster magic to conquer all your IT challenges!
 
-<img src="https://github.com/monsterit-ca/monsterit-ca/assets/9989813/58847bab-7a8e-4bf3-b68a-288cc644b16b" alt="Monster IT Logo" width="500" height="500">
-
 ## What We Offer
 1. **Technology Consulting 🛡️🌐**
    - Unleash the magic of our Technology Consulting service, where we blend professional insights with a dash of enchantment to transform your tech landscape.
@@ -21,5 +19,3 @@ At Monster IT, we're not just Tech Guardians; we're your allies in the digital r
 
 ## Get in Touch!
 Ready to embark on a legendary IT journey? Contact us for a free consultation and experience the enchantment of Monster IT Services. Let's turn your tech challenges into victories! 🚀✨
-
-<img src="https://github.com/monsterit-ca/monsterit-ca/assets/9989813/dd07f5a5-7103-4a81-85cf-ac6774ac6ad8" alt="Monster IT Logo" width="200" height="200">
